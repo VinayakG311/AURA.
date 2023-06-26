@@ -84,8 +84,12 @@ const Navbar = () => {
           <Logo>AURA.</Logo>
         </Center>
         <Right>
-          <MenuItem>REGISTER</MenuItem>
-          <MenuItem>SIGN IN</MenuItem>
+          <Link to={"/register"} style={{ textDecoration: 'none', color: 'black' }}>
+            <MenuItem >REGISTER</MenuItem>
+          </Link>
+          <Link to={"/login"} style={{ textDecoration: 'none', color: 'black' }}>
+            <MenuItem >SIGN IN</MenuItem>
+          </Link>
           <Link to="/cart">
             <MenuItem>
               <Badge badgeContent={quantity} color="primary">
