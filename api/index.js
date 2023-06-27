@@ -18,7 +18,7 @@ mongoose
   .catch((err) => {
     console.log(err);
   });
-app.use(cors());
+app.use(cors({origin:'https://aura-backend-5f6l.onrender.com'}));
 app.use(express.json());
 
 
