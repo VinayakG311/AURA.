@@ -18,7 +18,7 @@ mongoose
   .catch((err) => {
     console.log(err);
   });
-app.use(cors({origin:'https://aura-frontend-customer.onrender.com'}));
+app.use(cors({origin:['https://aura-frontend-customer.onrender.com','https://aura-admin.onrender.com']}));
 app.use(express.json());
 
 
