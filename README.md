@@ -67,15 +67,15 @@ The tech stack used is Reactjs for the frontend, Nodejs for handling the backend
 
   Home Screen for Seller Panel where they can see stats regarding there business
   
-  <img width="1431" alt="Home-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/682b72a5-dc10-422f-a1ca-eee624d1027a">
+  <img width="1080" alt="Home-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/682b72a5-dc10-422f-a1ca-eee624d1027a">
 
   List of products which have been added by the seller
   
-  <img width="1434" alt="ProductList-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/559c785f-fecb-456d-b001-ec8cdf352268">
+  <img width="1080" alt="ProductList-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/559c785f-fecb-456d-b001-ec8cdf352268">
 
   Screen where the seller can add new product 
   
-  <img width="1440" alt="NewProduct-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/12a9c7d4-1acc-4e07-97f5-8fd60144db45">
+  <img width="1080" alt="NewProduct-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/12a9c7d4-1acc-4e07-97f5-8fd60144db45">
 </details>
 
 
