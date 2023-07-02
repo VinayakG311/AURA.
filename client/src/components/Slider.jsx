@@ -54,6 +54,7 @@ const ImgContainer = styled.div`
 
 const Image = styled.img`
   height: 80%;
+  widget:100%
 `;
 
 const InfoContainer = styled.div`
