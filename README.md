@@ -52,16 +52,29 @@ The tech stack used is Reactjs for the frontend, Nodejs for handling the backend
 
 <details>
   <summary>Login and Register for Retailers</summary>
+  
   Register Screen where User can enter their details to access the AURA. website for Retailers and Organisations
+  
   <img width="1080" alt="Register-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/99f9976c-221a-4086-a50f-1b284357cf9f">
+  
   Login Screen where User can enter their details to access the AURA. website for Retailers and Organisations
+  
   <img width="1080" alt="Login-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/9e2d21d4-b789-40ad-8eeb-8e898b9a521b">
 </details>
 
 <details>
   <summary>Functionality of Retailer panel</summary>
+
+  Home Screen for Seller Panel where they can see stats regarding there business
+  
   <img width="1431" alt="Home-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/682b72a5-dc10-422f-a1ca-eee624d1027a">
+
+  List of products which have been added by the seller
+  
   <img width="1434" alt="ProductList-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/559c785f-fecb-456d-b001-ec8cdf352268">
+
+  Screen where the seller can add new product 
+  
   <img width="1440" alt="NewProduct-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/12a9c7d4-1acc-4e07-97f5-8fd60144db45">
 </details>
 
