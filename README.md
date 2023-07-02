@@ -16,8 +16,10 @@ The tech stack used is Reactjs for the frontend, Nodejs for handling the backend
 
 <details>
   <summary>Login and Register For Consumers</summary>
-  <img width="720" alt="Register-user" src="https://github.com/VinayakG311/AURA./assets/96966973/a4d6e98e-cb5b-44d8-9432-baa2d7db9966">
-  <img width="720" alt="login-user" src="https://github.com/VinayakG311/AURA./assets/96966973/dd4a8a44-aa9b-461d-866a-d4b134cca850">
+  Register Screen where User can enter their details to access the AURA. website
+  <img width="1080" alt="Register-user" src="https://github.com/VinayakG311/AURA./assets/96966973/a4d6e98e-cb5b-44d8-9432-baa2d7db9966">
+  Login Screen where User can enter their details to access the AURA. website
+  <img width="1080" alt="login-user" src="https://github.com/VinayakG311/AURA./assets/96966973/dd4a8a44-aa9b-461d-866a-d4b134cca850">
 </details>
 
 <details>
@@ -31,8 +33,10 @@ The tech stack used is Reactjs for the frontend, Nodejs for handling the backend
 
 <details>
   <summary>Login and Register for Retailers</summary>
-  <img width="1440" alt="Register-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/99f9976c-221a-4086-a50f-1b284357cf9f">
-  <img width="1437" alt="Login-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/9e2d21d4-b789-40ad-8eeb-8e898b9a521b">
+  Register Screen where User can enter their details to access the AURA. website for Retailers and Organisations
+  <img width="1080" alt="Register-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/99f9976c-221a-4086-a50f-1b284357cf9f">
+  Login Screen where User can enter their details to access the AURA. website for Retailers and Organisations
+  <img width="1080" alt="Login-Admin" src="https://github.com/VinayakG311/AURA./assets/96966973/9e2d21d4-b789-40ad-8eeb-8e898b9a521b">
 </details>
 
 <details>
