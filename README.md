@@ -16,8 +16,8 @@ The tech stack used is Reactjs for the frontend, Nodejs for handling the backend
 
 <details>
   <summary>Login and Register For Consumers</summary>
-  <img width="1440" alt="Register-user" src="https://github.com/VinayakG311/AURA./assets/96966973/a4d6e98e-cb5b-44d8-9432-baa2d7db9966">
-  <img width="1440" alt="login-user" src="https://github.com/VinayakG311/AURA./assets/96966973/dd4a8a44-aa9b-461d-866a-d4b134cca850">
+  <img width="720" alt="Register-user" src="https://github.com/VinayakG311/AURA./assets/96966973/a4d6e98e-cb5b-44d8-9432-baa2d7db9966">
+  <img width="720" alt="login-user" src="https://github.com/VinayakG311/AURA./assets/96966973/dd4a8a44-aa9b-461d-866a-d4b134cca850">
 </details>
 
 <details>
