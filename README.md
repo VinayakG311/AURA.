@@ -28,21 +28,13 @@ The tech stack used is Reactjs for the frontend, Nodejs for handling the backend
 
 <details>
   <summary>Functionality of Consumer Frontend</summary>
-
   Home Page where a buyer can scroll down to choose products or choose from a list of Categories
-  
   <img width="1080" alt="Home-User" src="https://github.com/VinayakG311/AURA./assets/96966973/a47d3cff-d223-40da-a11b-7ddff7b6b474">
-
   Product Page where a buyer can customise the Order as per their needs and add the product to the Cart
-  
   <img width="1080" alt="Product-User" src="https://github.com/VinayakG311/AURA./assets/96966973/6dd4ed3f-557f-49d8-8cba-a449ac901434">
-
   Cart Page where all the products which have been added to the Cart are stored. The Total price and Order details are shown on the Right
-  
   <img width="1080" alt="Cart-User" src="https://github.com/VinayakG311/AURA./assets/96966973/fc147ced-05cb-4f4c-9ac0-ab60787b77bf">
-
   Payment Gateway using Stripe.
-  
   <img width="1080" alt="Payment-User" src="https://github.com/VinayakG311/AURA./assets/96966973/7291ba98-0b93-4806-be52-ae372f457231">
 </details>
 
