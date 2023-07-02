@@ -16,18 +16,34 @@ The tech stack used is Reactjs for the frontend, Nodejs for handling the backend
 
 <details>
   <summary>Login and Register For Consumers</summary>
+  
   Register Screen where User can enter their details to access the AURA. website
+  
   <img width="1080" alt="Register-user" src="https://github.com/VinayakG311/AURA./assets/96966973/a4d6e98e-cb5b-44d8-9432-baa2d7db9966">
+  
   Login Screen where User can enter their details to access the AURA. website
+  
   <img width="1080" alt="login-user" src="https://github.com/VinayakG311/AURA./assets/96966973/dd4a8a44-aa9b-461d-866a-d4b134cca850">
 </details>
 
 <details>
   <summary>Functionality of Consumer Frontend</summary>
-  <img width="1439" alt="Home-User" src="https://github.com/VinayakG311/AURA./assets/96966973/a47d3cff-d223-40da-a11b-7ddff7b6b474">
-  <img width="1440" alt="Product-User" src="https://github.com/VinayakG311/AURA./assets/96966973/6dd4ed3f-557f-49d8-8cba-a449ac901434">
-  <img width="1440" alt="Cart-User" src="https://github.com/VinayakG311/AURA./assets/96966973/fc147ced-05cb-4f4c-9ac0-ab60787b77bf">
-  <img width="1440" alt="Payment-User" src="https://github.com/VinayakG311/AURA./assets/96966973/7291ba98-0b93-4806-be52-ae372f457231">
+
+  Home Page where a buyer can scroll down to choose products or choose from a list of Categories
+  
+  <img width="1080" alt="Home-User" src="https://github.com/VinayakG311/AURA./assets/96966973/a47d3cff-d223-40da-a11b-7ddff7b6b474">
+
+  Product Page where a buyer can customise the Order as per their needs and add the product to the Cart
+  
+  <img width="1080" alt="Product-User" src="https://github.com/VinayakG311/AURA./assets/96966973/6dd4ed3f-557f-49d8-8cba-a449ac901434">
+
+  Cart Page where all the products which have been added to the Cart are stored. The Total price and Order details are shown on the Right
+  
+  <img width="1080" alt="Cart-User" src="https://github.com/VinayakG311/AURA./assets/96966973/fc147ced-05cb-4f4c-9ac0-ab60787b77bf">
+
+  Payment Gateway using Stripe.
+  
+  <img width="1080" alt="Payment-User" src="https://github.com/VinayakG311/AURA./assets/96966973/7291ba98-0b93-4806-be52-ae372f457231">
 </details>
 
 
