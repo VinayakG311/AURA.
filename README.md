@@ -7,6 +7,7 @@ AURA. is an E-commerce platform with features such as Login/Signup, filter produ
 Table of Contents
 
 [1. Deploy](#Deploy)
+
 [2. Tech Stack](#Tech%20%Stack)
 
 ## Deploy
@@ -16,7 +17,7 @@ Link to User Frontend: https://aura-frontend-customer.onrender.com
 Link to Retailer Frontend: https://aura-admin.onrender.com
 
 
-## Tech Stack
+## Tech%20%Stack
 
 The tech stack used is **Reactjs** for the frontend, **Nodejs** for handling the backend server and. **MongoDB** is the database of choice for managing the data.
 
