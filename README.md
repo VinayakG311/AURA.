@@ -7,6 +7,7 @@ AURA. is an E-commerce platform with features such as Login/Signup, filter produ
 Table of Contents
 
 [1. Deploy](#Deploy)
+[2. Tech Stack](#Tech%20%Stack)
 
 ## Deploy
 
