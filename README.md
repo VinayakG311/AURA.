@@ -8,7 +8,7 @@ Table of Contents
 
 [1. Deploy](#Deploy)
 
-[2. Tech Stack](#Tech%20%Stack)
+[2. Tech Stack](#Tech-Stack)
 
 ## Deploy
 
@@ -17,7 +17,7 @@ Link to User Frontend: https://aura-frontend-customer.onrender.com
 Link to Retailer Frontend: https://aura-admin.onrender.com
 
 
-## Tech%20%Stack
+## Tech-Stack
 
 The tech stack used is **Reactjs** for the frontend, **Nodejs** for handling the backend server and. **MongoDB** is the database of choice for managing the data.
 
