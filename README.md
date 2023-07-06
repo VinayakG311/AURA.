@@ -3,6 +3,11 @@
 
 AURA. is an E-commerce platform with features such as Login/Signup, filter products, add to cart and Complete payment. And the retailers can access Admin panel where they can add products and manage their organisation.
 
+
+Table of Contents
+
+[1. Deploy](#Deploy)
+
 ## Deploy
 
 Link to User Frontend: https://aura-frontend-customer.onrender.com
