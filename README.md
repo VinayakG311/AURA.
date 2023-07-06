@@ -12,7 +12,7 @@ Link to Retailer Frontend: https://aura-admin.onrender.com
 
 ## Tech Stack
 
-The tech stack used is Reactjs for the frontend, Nodejs for handling the backend server and. MongoDB is the database of choice for managing the data.
+The tech stack used is **Reactjs** for the frontend, **Nodejs** for handling the backend server and. **MongoDB** is the database of choice for managing the data.
 
 ## Demo
 
