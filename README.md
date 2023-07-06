@@ -10,6 +10,8 @@ Table of Contents
 
 [2. Tech Stack](#Tech-Stack)
 
+[3. Demo](#Demo)
+
 ## Deploy
 
 Link to User Frontend: https://aura-frontend-customer.onrender.com
